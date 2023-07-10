@@ -1,0 +1,194 @@
+# MOVIES LIST
+
+## TOTAL = 
+
+- (2023) Ant-Man And The Wasp: Quantumania
+- (2023) Guardians Of The Galaxy Vol III
+- (2022) Doctor Strange In The Multiverse Of Madness 
+- (2022) The Batman
+- (2022) Thor: Love And Thunder
+- (2022) Black Panther: Wakanda Forever
+- (2021) Spider-Man: No Way Home
+- (2021) Shang-Chi And The Legend Of The Ten Rings
+- (2020) Tenet
+- (2019) Avengers: Endgame
+- (2019) Joker
+- (2019) Spider-Man: Far From Home
+- (2019) Captain Marvel
+- (2019) Gisaengchung
+- (2018) Avengers: Infinity War
+- (2017) Spider-Man: Homecoming
+- (2017) Guardians Of The Galaxy Vol II
+- (2017) Thor: Ragnarok
+- (2017) Wonder Woman
+- (2016) Captain America: Civil War
+- (2016) Suicide Squad
+- (2015) Avenger: Age Of Ultron
+- (2015) The Hunger Games: Mockingjay II
+- (2015) Jurassic World
+- (2014) Interstellar
+- (2014) The Hobbit: The Battle Of The Five Armies
+- (2014) Guardians Of The Galaxy 
+- (2014) Captain America: The Winter Soldier
+- (2014) The Hunger Games: Mockingjay I
+- (2014) X-Men: Days Of The Future Past
+- (2014) The Amazing Spider-Man II
+- (2014) Dawn Of The Planet Of The Apes
+- (2014) Maleficent
+- (2013) Iron Man III
+- (2013) The Hobbit: The Desolation Of Smaug
+- (2013) Thor: The Dark World
+- (2013) Man Of Steel
+- (2012) The Dark Knight Rises
+- (2012) The Hobbit: An Unexpected Journey
+- (2012) The Avengers
+- (2012) The Hunger Games
+- (2012) The Twilight Saga: Breaking Dawn II
+- (2012) The Amazing Spider-Man
+- (2011) Harry Potter And The Deathly Hallows II
+- (2011) The Hangover II
+- (2011) The Twilight Saga: Breaking Dawn I
+- (2011) Intouchables
+- (2010) Inception
+- (2010) Iron Man II
+- (2010) Harry Potter And The Deathly Hallows I
+- (2010) The Twilight Saga: Eclipse
+- (2010) Alice In Wonderland
+- (2009) Avatar
+- (2009) Harry Potter And The Half-Blood Prince
+- (2009) Inglourious Basterds
+- (2009) Angels & Demons
+- (2009) The Twilight Saga: New Moon
+- (2009) Sherlock Holmes
+- (2009) Hangover
+- (2009) 2012
+- (2008) The Dark Knight
+- (2008) Iron Man
+- (2008) The Chronicles Of Narnia: Prince Caspian
+- (2007) Harry Potter And The Order Of The Phoenix
+- (2007) Pirates Of The Caribbean: At World's End
+- (2007) Spider-Man III
+- (2007) Transformers
+- (2007) I Am Legend
+- (2006) The Prestige
+- (2006) The Departed
+- (2006) Pirates Of The Caribbean: Dead Man's Chest
+- (2006) The Da Vinci Code
+- (2006) X-Men: The Last Stand
+- (2006) Night At The Museum
+- (2005) Harry Potter And The Goblet Of Fire
+- (2005) Star Wars III: Revenge Of The Sith
+- (2005) The Chronicle Of Narnia: The Lion, The Witch And The Wardrobe
+- (2005) Hitch
+- (2005) Batman Begins
+- (2005) War Of The Worlds
+- (2005) Charlie And The Chocolate Factory
+- (2005) King Kong
+- (2004) Harry Potter And The Prisoner Of Azkaban
+- (2004) Spider-Man II
+- (2004) The Passion Of The Christ
+- (2004) Ocean's Twelve
+- (2003) Oldeuboi
+- (2003) The Lord Of The Rings: The Return Of The King
+- (2003) The Matrix Reloaded
+- (2003) The Matrix Revolutions
+- (2003) Pirates Of The Caribbean: The Curse Of The Black Pearl
+- (2003) Bruce Almighty
+- (2003) X2
+- (2002) The Pianist
+- (2002) Harry Potter And The Chamber Of Secrets
+- (2002) The Lord Of The Rings: The Two Towers
+- (2002) Star Wars II: Attack Of The Clones
+- (2002) Cidade De Deus
+- (2002) Signs
+- (2002) Men In Black II
+- (2001) Harry Potter And The Philosopher's Stone
+- (2001) The Lord Of The Rings: The Fellowship Of The Ring
+- (2001) Pearl Harbor
+- (2001) The Mummy Returns
+- (2001) Jurassic Park III
+- (2001) Ocean's Eleven
+- (2001) Planet Of The Apes
+- (2000) Gladiator
+- (2000) Memento
+- (2000) X-Men
+- (1999) Star Wars I: The Phantom Menace
+- (1999) The Matrix
+- (1999) The Sixth Sense
+- (1999) American Beauty
+- (1999) The Green Mile
+- (1999) Fight Club
+- (1999) The Mummy
+- (1999) Austin Powers: The Spy Who Shagged Me
+- (1998) American History X
+- (1998) Armageddon
+- (1998) There's Something About Mary
+- (1998) Godzilla
+- (1998) Doctor Dolittle
+- (1997) Titanic
+- (1997) The Lost World: Jurassic Park
+- (1997) La Vita È Bella
+- (1997) Liar Liar
+- (1997) The Fifth Element
+- (1997) My Best Friend's Wedding
+- (1997) Men In Black
+- (1996) Independence Day
+- (1996) Twister
+- (1996) 101 Dalmatians
+- (1996) Space Jam
+- (1996) Mission: Impossible
+- (1995) The Usual Suspects
+- (1995) Se7en
+- (1995) Braveheart
+- (1995) Batman Forever
+- (1995) Jumanji
+- (1995) Casper
+- (1994) The Shawshank Redemption
+- (1994) Léon
+- (1994) Forrest Gump
+- (1994) The Mask
+- (1994) The Flintstones
+- (1994) Dumb And Dumber
+- (1993) The Schindler's List
+- (1993) Jurassic Park
+- (1993) Indecent Proposal
+- (1992) Home Alone II: Lost In New York
+- (1992) Basic Instinct
+- (1992) Batman Returns
+- (1992) Bram Stoker's Dracula
+- (1991) The Silence Of The Lambs
+- (1991) Terminator II: Judgment Day
+- (1991) The Addams Family
+- (1990) GoodFellas
+- (1990) Ghost
+- (1990) Home Alone
+- (1990) Back To The Future III
+- (1990) Teenage Mutant Ninja Turtles
+- (1989) Batman
+- (1989) Dead Poets Society
+- (1989) Ghostbusters II
+- (1989) Back To The Future II
+- (1988) Nuovo Cinema Paradiso
+- (1988) Rain Man
+- (1985) Back To The Future
+- (1984) Ghostbusters
+- (1984) Police Academy
+- (1984) The Karate Kid
+- (1983) Star Wars VI: The Return Of The Jedi
+- (1982) E.T. The Extra-Terrestrial
+- (1982) Poltergeist
+- (1980) Star Wars V: The Empire Strikes Back
+- (1980) The Blue Lagoon
+- (1978) Revenge Of The Pink Panther
+- (1978) Jaws II
+- (1977) Star Wars IV: A New Hope
+- (1976) Rocky
+- (1975) The Return Of The Pink Panther
+- (1974) The Godfather II
+- (1973) The Exorcist
+- (1972) The Godfather
+- (1971) A Clockwork Orange
+- (1968) Romeo And Juliet
+- (1963) Il Gattopardo
+- (1963) Cleopatra
+- (1939) Gone With The Wind

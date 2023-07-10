@@ -1,0 +1,3 @@
+# ANIME SERIES LIST
+
+## TOTAL = 
