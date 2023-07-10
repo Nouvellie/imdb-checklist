@@ -1,6 +1,4 @@
-# MOVIES LIST
-
-## TOTAL = 
+# MOVIES LIST (190)
 
 - (2023) Ant-Man And The Wasp: Quantumania
 - (2023) Guardians Of The Galaxy Vol III

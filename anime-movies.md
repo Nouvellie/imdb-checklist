@@ -1,6 +1,4 @@
-# ANIME LIST
-
-## TOTAL = 
+# ANIME LIST (24)
 
 - (2020) Kimetsu No Yaiba: Mugen Ressha-Hen
 - (2017) Coco
