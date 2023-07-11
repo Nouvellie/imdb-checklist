@@ -1,7 +1,7 @@
-# MOVIES LIST (190)
+# MOVIES LIST (219)
 
 - (2023) Ant-Man And The Wasp: Quantumania
-- (2023) Guardians Of The Galaxy Vol III
+- (2023) Guardians Of The Galaxy Vol. III
 - (2022) Doctor Strange In The Multiverse Of Madness 
 - (2022) The Batman
 - (2022) Thor: Love And Thunder
@@ -11,15 +11,19 @@
 - (2020) Tenet
 - (2019) Avengers: Endgame
 - (2019) Joker
+- (2019) 1917
 - (2019) Spider-Man: Far From Home
 - (2019) Captain Marvel
 - (2019) Gisaengchung
 - (2018) Avengers: Infinity War
 - (2017) Spider-Man: Homecoming
-- (2017) Guardians Of The Galaxy Vol II
+- (2017) Guardians Of The Galaxy Vol. II
+- (2017) Logan
 - (2017) Thor: Ragnarok
 - (2017) Wonder Woman
+- (2017) Three Billboards Outside Ebbing, Missouri
 - (2016) Captain America: Civil War
+- (2016) Contratiempo
 - (2016) Suicide Squad
 - (2015) Avenger: Age Of Ultron
 - (2015) The Hunger Games: Mockingjay II
@@ -35,7 +39,10 @@
 - (2014) Maleficent
 - (2013) Iron Man III
 - (2013) The Hobbit: The Desolation Of Smaug
+- (2013) 12 Years A Slave
+- (2013) The Wolf Of Wall Street
 - (2013) Thor: The Dark World
+- (2013) Before Midnight
 - (2013) Man Of Steel
 - (2012) The Dark Knight Rises
 - (2012) The Hobbit: An Unexpected Journey
@@ -50,8 +57,10 @@
 - (2010) Inception
 - (2010) Iron Man II
 - (2010) Harry Potter And The Deathly Hallows I
+- (2010) Shutter Island
 - (2010) The Twilight Saga: Eclipse
 - (2010) Alice In Wonderland
+- (2009) El Secreto De Sus Ojos
 - (2009) Avatar
 - (2009) Harry Potter And The Half-Blood Prince
 - (2009) Inglourious Basterds
@@ -60,14 +69,18 @@
 - (2009) Sherlock Holmes
 - (2009) Hangover
 - (2009) 2012
+- (2009) Hachi: A Dog's Tale
 - (2008) The Dark Knight
 - (2008) Iron Man
+- (2008) Gran Torino
 - (2008) The Chronicles Of Narnia: Prince Caspian
 - (2007) Harry Potter And The Order Of The Phoenix
-- (2007) Pirates Of The Caribbean: At World's End
 - (2007) Spider-Man III
-- (2007) Transformers
+- (2007) Los Cronocrímenes
+- (2007) Into The Wild
 - (2007) I Am Legend
+- (2007) Pirates Of The Caribbean: At World's End
+- (2007) Transformers
 - (2006) The Prestige
 - (2006) The Departed
 - (2006) Pirates Of The Caribbean: Dead Man's Chest
@@ -76,40 +89,51 @@
 - (2006) Night At The Museum
 - (2005) Harry Potter And The Goblet Of Fire
 - (2005) Star Wars III: Revenge Of The Sith
-- (2005) The Chronicle Of Narnia: The Lion, The Witch And The Wardrobe
+- (2005) V For Vendetta
 - (2005) Hitch
+- (2005) The Chronicle Of Narnia: The Lion, The Witch And The Wardrobe
 - (2005) Batman Begins
 - (2005) War Of The Worlds
 - (2005) Charlie And The Chocolate Factory
 - (2005) King Kong
+- (2004) Eternal Sunshine Of The Spotless Mind
 - (2004) Harry Potter And The Prisoner Of Azkaban
 - (2004) Spider-Man II
 - (2004) The Passion Of The Christ
+- (2004) Before Sunset
 - (2004) Ocean's Twelve
 - (2003) Oldeuboi
 - (2003) The Lord Of The Rings: The Return Of The King
 - (2003) The Matrix Reloaded
 - (2003) The Matrix Revolutions
-- (2003) Pirates Of The Caribbean: The Curse Of The Black Pearl
+- (2003) Jeux D'Enfants
 - (2003) Bruce Almighty
+- (2003) Pirates Of The Caribbean: The Curse Of The Black Pearl
+- (2003) Kill Bill: Vol. I
 - (2003) X2
 - (2002) The Pianist
 - (2002) Harry Potter And The Chamber Of Secrets
 - (2002) The Lord Of The Rings: The Two Towers
 - (2002) Star Wars II: Attack Of The Clones
+- (2002) Catch Me If You Can
 - (2002) Cidade De Deus
 - (2002) Signs
 - (2002) Men In Black II
+- (2001) A Beautiful Mind
 - (2001) Harry Potter And The Philosopher's Stone
 - (2001) The Lord Of The Rings: The Fellowship Of The Ring
 - (2001) Pearl Harbor
+- (2001) Le Fabuleux Destin D'Amélie Poulain
 - (2001) The Mummy Returns
 - (2001) Jurassic Park III
 - (2001) Ocean's Eleven
 - (2001) Planet Of The Apes
 - (2000) Gladiator
+- (2000) Requiem For A Dream
 - (2000) Memento
+- (2000) Nueve Reinas
 - (2000) X-Men
+- (2000) Amores Perros
 - (1999) Star Wars I: The Phantom Menace
 - (1999) The Matrix
 - (1999) The Sixth Sense
@@ -119,8 +143,9 @@
 - (1999) The Mummy
 - (1999) Austin Powers: The Spy Who Shagged Me
 - (1998) American History X
-- (1998) Armageddon
+- (1998) The Truman Show
 - (1998) There's Something About Mary
+- (1998) Armageddon
 - (1998) Godzilla
 - (1998) Doctor Dolittle
 - (1997) Titanic
@@ -130,6 +155,7 @@
 - (1997) The Fifth Element
 - (1997) My Best Friend's Wedding
 - (1997) Men In Black
+- (1996) Trainspotting
 - (1996) Independence Day
 - (1996) Twister
 - (1996) 101 Dalmatians
@@ -137,9 +163,10 @@
 - (1996) Mission: Impossible
 - (1995) The Usual Suspects
 - (1995) Se7en
-- (1995) Braveheart
+- (1995) Before Sunrise
 - (1995) Batman Forever
 - (1995) Jumanji
+- (1995) Braveheart
 - (1995) Casper
 - (1994) The Shawshank Redemption
 - (1994) Léon
@@ -180,8 +207,10 @@
 - (1978) Revenge Of The Pink Panther
 - (1978) Jaws II
 - (1977) Star Wars IV: A New Hope
+- (1976) Taxi Driver
 - (1976) Rocky
 - (1975) The Return Of The Pink Panther
+- (1975) Jaws
 - (1974) The Godfather II
 - (1973) The Exorcist
 - (1972) The Godfather
