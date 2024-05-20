@@ -1,13 +1,36 @@
 # SERIES LIST (0)
 
+- (2024-____) Fallout
+- (2023-____) The Last of Us
+- (2022-____) The Bear
+- (2021-____) American Horror Stories
+- (2019-____) The Boys
+- (2019-____) Euphoria
+- (2019-2023) Sex Education
+- (2019-2019) Chernobyl
+- (2018-2023) Succession
+- (2017-2020) Dark
+- (2017-2019) The End of the F***ing World
+- (2016-2022) This Is Us
+- (2016-2022) Westworld
+- (2016-2025) Stranger Things
+- (2016-2019) Fleabag
+- (2015-2022) Better Call Saul
+- (2015-2019) Mr. Robot
+- (2014-____) True Detective
 - (2011-____) Impractical Jokers
 - (2011-____) Black Mirror
+- (2011-____) American Horror Story
 - (2011-2021) Shameless
-- (2010-2015) Downton Abbey
+- (2011-2019) Suits
+- (2010-2022) The Walking Dead
 - (2010-2017) Sherlock
+- (2010-2015) Downton Abbey
 - (2008-2013) Breaking Bad
+- (2007-2019) The Big Bang Theory
 - (2005-2013) The Office
 - (2004-2012) House M.D.
+- (2004-2010) Lost
 - (2002-2008) The Wire
 - (2001-2001) Band of Brothers
 - (1997-2007) The Sopranos

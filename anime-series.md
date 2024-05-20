@@ -1,5 +1,9 @@
 # ANIME SERIES LIST (0)
 
+- (2021-____) Arcane: League of Legends
+- (2021-____) Invincible
+- (2020-____) Jujutsu Kaisen
+- (2019-____) Kimetsu no Yaiba
 - (2013-____) Rick and Morty
 - (2013-2023) Shingeki no Kyojin
 - (2011-2014) Hunter x Hunter
