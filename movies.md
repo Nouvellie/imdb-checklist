@@ -1,65 +1,109 @@
-# MOVIES LIST (219)
+# MOVIES LIST (259)
 
+- (2023) Oppenheimer
 - (2023) Ant-Man And The Wasp: Quantumania
 - (2023) Guardians Of The Galaxy Vol. III
+- (2023) Barbie
+- (2023) Saw X
 - (2022) Doctor Strange In The Multiverse Of Madness 
 - (2022) The Batman
 - (2022) Thor: Love And Thunder
 - (2022) Black Panther: Wakanda Forever
 - (2021) Spider-Man: No Way Home
 - (2021) Shang-Chi And The Legend Of The Ten Rings
+- (2021) Eternals
+- (2021) Spiral: From the Book of Saw
+- (2021) Black Widow
+- (2020) Serebryanye konki
 - (2020) Tenet
 - (2019) Avengers: Endgame
 - (2019) Joker
 - (2019) 1917
+- (2019) The Aeronauts
 - (2019) Spider-Man: Far From Home
-- (2019) Captain Marvel
 - (2019) Gisaengchung
+- (2019) Glass
+- (2019) Captain Marvel
 - (2018) Avengers: Infinity War
+- (2018) On the Basis of Sex
+- (2018) Hereditary
+- (2018) The Cloverfield Paradox
+- (2017) The Shape of Water
 - (2017) Spider-Man: Homecoming
 - (2017) Guardians Of The Galaxy Vol. II
 - (2017) Logan
+- (2017) Annabelle: Creation
 - (2017) Thor: Ragnarok
+- (2017) Jigsaw
 - (2017) Wonder Woman
 - (2017) Three Billboards Outside Ebbing, Missouri
 - (2016) Captain America: Civil War
 - (2016) Contratiempo
+- (2016) Split
+- (2016) Inferno
+- (2016) Collide
+- (2016) A Monster Calls
+- (2016) Hacksaw Ridge
+- (2016) 10 Cloverfield Lane
 - (2016) Suicide Squad
+- (2015) True Story
 - (2015) Avenger: Age Of Ultron
 - (2015) The Hunger Games: Mockingjay II
 - (2015) Jurassic World
+- (2015) Ted 2
+- (2015) Mad Max: Fury Road
 - (2014) Interstellar
+- (2014) The Theory of Everything
+- (2014) I Origins
+- (2014) Relatos salvajes
 - (2014) The Hobbit: The Battle Of The Five Armies
 - (2014) Guardians Of The Galaxy 
 - (2014) Captain America: The Winter Soldier
+- (2014) Whiplash
+- (2014) American Sniper
+- (2014) Annabelle
 - (2014) The Hunger Games: Mockingjay I
 - (2014) X-Men: Days Of The Future Past
 - (2014) The Amazing Spider-Man II
 - (2014) Dawn Of The Planet Of The Apes
+- (2014) The Grand Budapest Hotel
 - (2014) Maleficent
+- (2013) Breathe In
+- (2013) The Invisible Woman
 - (2013) Iron Man III
 - (2013) The Hobbit: The Desolation Of Smaug
 - (2013) 12 Years A Slave
+- (2013) Prisoners
 - (2013) The Wolf Of Wall Street
 - (2013) Thor: The Dark World
 - (2013) Before Midnight
 - (2013) Man Of Steel
 - (2012) The Dark Knight Rises
 - (2012) The Hobbit: An Unexpected Journey
+- (2012) Django Unchained
+- (2012) Life of Pi
 - (2012) The Avengers
+- (2012) Ted
 - (2012) The Hunger Games
 - (2012) The Twilight Saga: Breaking Dawn II
 - (2012) The Amazing Spider-Man
+- (2011) Albatross
+- (2011) Chalet Girl
+- (2011) Sherlock Holmes: A Game of Shadows
 - (2011) Harry Potter And The Deathly Hallows II
+- (2011) Like Crazy
 - (2011) The Hangover II
 - (2011) The Twilight Saga: Breaking Dawn I
 - (2011) Intouchables
+- (2011) Transformers: Dark of the Moon
 - (2010) Inception
 - (2010) Iron Man II
 - (2010) Harry Potter And The Deathly Hallows I
 - (2010) Shutter Island
+- (2010) Srpski film
 - (2010) The Twilight Saga: Eclipse
 - (2010) Alice In Wonderland
+- (2010) Saw 3D
 - (2009) El Secreto De Sus Ojos
 - (2009) Avatar
 - (2009) Harry Potter And The Half-Blood Prince
@@ -70,10 +114,14 @@
 - (2009) Hangover
 - (2009) 2012
 - (2009) Hachi: A Dog's Tale
+- (2009) Saw VI
+- (2009) Dragonball Evolution
 - (2008) The Dark Knight
 - (2008) Iron Man
 - (2008) Gran Torino
 - (2008) The Chronicles Of Narnia: Prince Caspian
+- (2008) Saw V
+- (2008) Cloverfield
 - (2007) Harry Potter And The Order Of The Phoenix
 - (2007) Spider-Man III
 - (2007) Los Cronocrímenes
@@ -81,8 +129,13 @@
 - (2007) I Am Legend
 - (2007) Pirates Of The Caribbean: At World's End
 - (2007) Transformers
+- (2007) [Rec]
+- (2007) Saw IV
+- (2007) 28 Weeks Later
 - (2006) The Prestige
 - (2006) The Departed
+- (2006) The Pursuit of Happyness
+- (2006) Saw III
 - (2006) Pirates Of The Caribbean: Dead Man's Chest
 - (2006) The Da Vinci Code
 - (2006) X-Men: The Last Stand
@@ -94,20 +147,28 @@
 - (2005) The Chronicle Of Narnia: The Lion, The Witch And The Wardrobe
 - (2005) Batman Begins
 - (2005) War Of The Worlds
+- (2005) The Fog
+- (2005) Saw II
 - (2005) Charlie And The Chocolate Factory
 - (2005) King Kong
+- (2005) Wedding Crashers
+- (2005) The Adventures of Sharkboy and Lavagirl 3-D
 - (2004) Eternal Sunshine Of The Spotless Mind
 - (2004) Harry Potter And The Prisoner Of Azkaban
 - (2004) Spider-Man II
 - (2004) The Passion Of The Christ
 - (2004) Before Sunset
+- (2004) Der Untergang
+- (2004) Saw
 - (2004) Ocean's Twelve
 - (2003) Oldeuboi
+- (2003) Salinui chueok
 - (2003) The Lord Of The Rings: The Return Of The King
 - (2003) The Matrix Reloaded
 - (2003) The Matrix Revolutions
 - (2003) Jeux D'Enfants
 - (2003) Bruce Almighty
+- (2003) Dumb and Dumberer: When Harry Met Lloyd
 - (2003) Pirates Of The Caribbean: The Curse Of The Black Pearl
 - (2003) Kill Bill: Vol. I
 - (2003) X2
@@ -118,6 +179,8 @@
 - (2002) Catch Me If You Can
 - (2002) Cidade De Deus
 - (2002) Signs
+- (2002) Feardotcom
+- (2002) 28 Days Later...
 - (2002) Men In Black II
 - (2001) A Beautiful Mind
 - (2001) Harry Potter And The Philosopher's Stone
@@ -132,8 +195,11 @@
 - (2000) Requiem For A Dream
 - (2000) Memento
 - (2000) Nueve Reinas
+- (2000) Unbreakable
 - (2000) X-Men
-- (2000) Amores Perros
+- (2000) Amores perros
+- (2000) Snatch
+- (2000) The Flintstones in Viva Rock Vegas
 - (1999) Star Wars I: The Phantom Menace
 - (1999) The Matrix
 - (1999) The Sixth Sense
@@ -149,14 +215,17 @@
 - (1998) Godzilla
 - (1998) Doctor Dolittle
 - (1997) Titanic
+- (1997) The Fifth Element
+- (1997) Batman & Robin
 - (1997) The Lost World: Jurassic Park
 - (1997) La Vita È Bella
 - (1997) Liar Liar
-- (1997) The Fifth Element
-- (1997) My Best Friend's Wedding
 - (1997) Men In Black
+- (1997) My Best Friend's Wedding
+- (1997) Mortal Kombat: Annihilation
 - (1996) Trainspotting
 - (1996) Independence Day
+- (1996) Fargo
 - (1996) Twister
 - (1996) 101 Dalmatians
 - (1996) Space Jam
@@ -172,6 +241,7 @@
 - (1994) Léon
 - (1994) Forrest Gump
 - (1994) The Mask
+- (1994) Die unendliche Geschichte III: Rettung aus Phantasien
 - (1994) The Flintstones
 - (1994) Dumb And Dumber
 - (1993) The Schindler's List
@@ -195,15 +265,21 @@
 - (1989) Back To The Future II
 - (1988) Nuovo Cinema Paradiso
 - (1988) Rain Man
+- (1987) Jaws: The Revenge
+- (1986) Aliens
 - (1985) Back To The Future
+- (1985) Ran
 - (1984) Ghostbusters
 - (1984) Police Academy
 - (1984) The Karate Kid
+- (1984) The Terminator
 - (1983) Star Wars VI: The Return Of The Jedi
 - (1982) E.T. The Extra-Terrestrial
+- (1982) The Thing
 - (1982) Poltergeist
 - (1980) Star Wars V: The Empire Strikes Back
 - (1980) The Blue Lagoon
+- (1979) Alien
 - (1978) Revenge Of The Pink Panther
 - (1978) Jaws II
 - (1977) Star Wars IV: A New Hope
@@ -218,4 +294,5 @@
 - (1968) Romeo And Juliet
 - (1963) Il Gattopardo
 - (1963) Cleopatra
+- (1959) Ben-Hur
 - (1939) Gone With The Wind

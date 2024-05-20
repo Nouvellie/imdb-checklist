@@ -1,8 +1,11 @@
-# ANIME LIST (24)
+# ANIME LIST (028)
 
 - (2020) Kimetsu No Yaiba: Mugen Ressha-Hen
 - (2017) Coco
+- (2015) Inside Out
 - (2010) Toy Story III
+- (2010) How to Train Your Dragon
+- (2010) Shrek Forever After
 - (2007) Shrek The Third
 - (2007) The Simpsons Movie
 - (2007) Ratatouille
@@ -22,5 +25,6 @@
 - (1991) Beauty And The Beast
 - (1989) The Little Mermaid
 - (1988) Hotaru No Haka
+- (1988) Tonari no Totoro
 - (1953) Peter Pan
 - (1937) Snow White And The Seven Dwarfs
