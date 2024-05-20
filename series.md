@@ -1,7 +1,7 @@
 # SERIES LIST (0)
 
-- (2011-    ) Impractical Jokers
-- (2011-    ) Black Mirror
+- (2011-____) Impractical Jokers
+- (2011-____) Black Mirror
 - (2011-2021) Shameless
 - (2010-2015) Downton Abbey
 - (2010-2017) Sherlock
