@@ -1,5 +1,6 @@
-# MOVIES LIST (259)
+# MOVIES LIST (329)
 
+- (2023) Poor Things
 - (2023) Oppenheimer
 - (2023) Ant-Man And The Wasp: Quantumania
 - (2023) Guardians Of The Galaxy Vol. III
@@ -13,6 +14,7 @@
 - (2021) Shang-Chi And The Legend Of The Ten Rings
 - (2021) Eternals
 - (2021) Spiral: From the Book of Saw
+- (2021) The Conjuring: The Devil Made Me Do It
 - (2021) Black Widow
 - (2020) Serebryanye konki
 - (2020) Tenet
@@ -24,16 +26,20 @@
 - (2019) Gisaengchung
 - (2019) Glass
 - (2019) Captain Marvel
+- (2019) The Lighthouse
 - (2018) Avengers: Infinity War
 - (2018) On the Basis of Sex
 - (2018) Hereditary
+- (2018) A Quiet Place
 - (2018) The Cloverfield Paradox
 - (2017) The Shape of Water
+- (2017) Disobedience
 - (2017) Spider-Man: Homecoming
 - (2017) Guardians Of The Galaxy Vol. II
 - (2017) Logan
 - (2017) Annabelle: Creation
 - (2017) Thor: Ragnarok
+- (2017) It
 - (2017) Jigsaw
 - (2017) Wonder Woman
 - (2017) Three Billboards Outside Ebbing, Missouri
@@ -45,6 +51,7 @@
 - (2016) A Monster Calls
 - (2016) Hacksaw Ridge
 - (2016) 10 Cloverfield Lane
+- (2016) The Conjuring 2
 - (2016) Suicide Squad
 - (2015) True Story
 - (2015) Avenger: Age Of Ultron
@@ -66,8 +73,9 @@
 - (2014) X-Men: Days Of The Future Past
 - (2014) The Amazing Spider-Man II
 - (2014) Dawn Of The Planet Of The Apes
-- (2014) The Grand Budapest Hotel
 - (2014) Maleficent
+- (2014) The Grand Budapest Hotel
+- (2014) [Rec] 4: Apocalipsis
 - (2013) Breathe In
 - (2013) The Invisible Woman
 - (2013) Iron Man III
@@ -77,33 +85,42 @@
 - (2013) The Wolf Of Wall Street
 - (2013) Thor: The Dark World
 - (2013) Before Midnight
+- (2013) The Conjuring
 - (2013) Man Of Steel
 - (2012) The Dark Knight Rises
 - (2012) The Hobbit: An Unexpected Journey
 - (2012) Django Unchained
 - (2012) Life of Pi
+- (2012) Flight
 - (2012) The Avengers
 - (2012) Ted
 - (2012) The Hunger Games
 - (2012) The Twilight Saga: Breaking Dawn II
 - (2012) The Amazing Spider-Man
+- (2012) [Rec]³: Génesis
 - (2011) Albatross
 - (2011) Chalet Girl
 - (2011) Sherlock Holmes: A Game of Shadows
 - (2011) Harry Potter And The Deathly Hallows II
+- (2011) The Deep Blue Sea
 - (2011) Like Crazy
+- (2011) Crazy, Stupid, Love.
 - (2011) The Hangover II
 - (2011) The Twilight Saga: Breaking Dawn I
 - (2011) Intouchables
 - (2011) Transformers: Dark of the Moon
+- (2011) The Cabin in the Woods
 - (2010) Inception
 - (2010) Iron Man II
 - (2010) Harry Potter And The Deathly Hallows I
 - (2010) Shutter Island
 - (2010) Srpski film
+- (2010) Blue Valentine
+- (2010) The Book of Eli
 - (2010) The Twilight Saga: Eclipse
 - (2010) Alice In Wonderland
 - (2010) Saw 3D
+- (2010) I Spit on Your Grave
 - (2009) El Secreto De Sus Ojos
 - (2009) Avatar
 - (2009) Harry Potter And The Half-Blood Prince
@@ -115,6 +132,9 @@
 - (2009) 2012
 - (2009) Hachi: A Dog's Tale
 - (2009) Saw VI
+- (2009) [Rec]²
+- (2009) The Human Centipede (First Sequence)
+- (2009) Jennifer's Body
 - (2009) Dragonball Evolution
 - (2008) The Dark Knight
 - (2008) Iron Man
@@ -122,6 +142,7 @@
 - (2008) The Chronicles Of Narnia: Prince Caspian
 - (2008) Saw V
 - (2008) Cloverfield
+- (2007) American Gangster
 - (2007) Harry Potter And The Order Of The Phoenix
 - (2007) Spider-Man III
 - (2007) Los Cronocrímenes
@@ -130,11 +151,14 @@
 - (2007) Pirates Of The Caribbean: At World's End
 - (2007) Transformers
 - (2007) [Rec]
+- (2007) The Mist
 - (2007) Saw IV
 - (2007) 28 Weeks Later
 - (2006) The Prestige
 - (2006) The Departed
 - (2006) The Pursuit of Happyness
+- (2006) Deja Vu
+- (2006) The Devil Wears Prada
 - (2006) Saw III
 - (2006) Pirates Of The Caribbean: Dead Man's Chest
 - (2006) The Da Vinci Code
@@ -143,6 +167,8 @@
 - (2005) Harry Potter And The Goblet Of Fire
 - (2005) Star Wars III: Revenge Of The Sith
 - (2005) V For Vendetta
+- (2005) Constantine
+- (2005) Brokeback Mountain
 - (2005) Hitch
 - (2005) The Chronicle Of Narnia: The Lion, The Witch And The Wardrobe
 - (2005) Batman Begins
@@ -154,6 +180,7 @@
 - (2005) Wedding Crashers
 - (2005) The Adventures of Sharkboy and Lavagirl 3-D
 - (2004) Eternal Sunshine Of The Spotless Mind
+- (2004) The Notebook
 - (2004) Harry Potter And The Prisoner Of Azkaban
 - (2004) Spider-Man II
 - (2004) The Passion Of The Christ
@@ -172,6 +199,7 @@
 - (2003) Pirates Of The Caribbean: The Curse Of The Black Pearl
 - (2003) Kill Bill: Vol. I
 - (2003) X2
+- (2003) Wrong Turn
 - (2002) The Pianist
 - (2002) Harry Potter And The Chamber Of Secrets
 - (2002) The Lord Of The Rings: The Two Towers
@@ -183,6 +211,7 @@
 - (2002) 28 Days Later...
 - (2002) Men In Black II
 - (2001) A Beautiful Mind
+- (2001) Training Day
 - (2001) Harry Potter And The Philosopher's Stone
 - (2001) The Lord Of The Rings: The Fellowship Of The Ring
 - (2001) Pearl Harbor
@@ -210,6 +239,7 @@
 - (1999) Austin Powers: The Spy Who Shagged Me
 - (1998) American History X
 - (1998) The Truman Show
+- (1998) I Want You
 - (1998) There's Something About Mary
 - (1998) Armageddon
 - (1998) Godzilla
@@ -220,6 +250,7 @@
 - (1997) The Lost World: Jurassic Park
 - (1997) La Vita È Bella
 - (1997) Liar Liar
+- (1997) Cube
 - (1997) Men In Black
 - (1997) My Best Friend's Wedding
 - (1997) Mortal Kombat: Annihilation
@@ -232,6 +263,7 @@
 - (1996) Mission: Impossible
 - (1995) The Usual Suspects
 - (1995) Se7en
+- (1995) The Bridges of Madison County
 - (1995) Before Sunrise
 - (1995) Batman Forever
 - (1995) Jumanji
@@ -278,6 +310,7 @@
 - (1982) The Thing
 - (1982) Poltergeist
 - (1980) Star Wars V: The Empire Strikes Back
+- (1980) Cannibal Holocaust
 - (1980) The Blue Lagoon
 - (1979) Alien
 - (1978) Revenge Of The Pink Panther
