@@ -1,5 +1,6 @@
-# ANIME LIST (028)
+# ANIME LIST (29)
 
+- (2022) The First Slam Dunk
 - (2020) Kimetsu No Yaiba: Mugen Ressha-Hen
 - (2017) Coco
 - (2015) Inside Out

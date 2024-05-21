@@ -1,21 +1,25 @@
-# SERIES LIST (0)
+# SERIES LIST (62)
 
 - (2024-____) Fallout
 - (2023-____) The Last of Us
 - (2022-____) The Bear
 - (2021-____) American Horror Stories
+- (2020-____) Upload
 - (2019-____) The Boys
 - (2019-____) Euphoria
 - (2019-2023) Sex Education
 - (2019-2019) Chernobyl
 - (2018-2023) Succession
+- (2017-2021) La casa de papel
 - (2017-2020) Dark
 - (2017-2019) The End of the F***ing World
 - (2016-2022) This Is Us
 - (2016-2022) Westworld
 - (2016-2025) Stranger Things
+- (2016-2019) The OA
 - (2016-2019) Fleabag
 - (2015-2022) Better Call Saul
+- (2015-2019) The Man in the High Castle
 - (2015-2019) Mr. Robot
 - (2014-____) True Detective
 - (2011-____) Impractical Jokers
@@ -23,18 +27,38 @@
 - (2011-____) American Horror Story
 - (2011-2021) Shameless
 - (2011-2019) Suits
+- (2011-2011) Skins
 - (2010-2022) The Walking Dead
 - (2010-2017) Sherlock
 - (2010-2015) Downton Abbey
 - (2008-2013) Breaking Bad
 - (2007-2019) The Big Bang Theory
+- (2007-2013) Skins
+- (2006-2023) Casado con Hijos
+- (2005-2014) How I Met Your Mother
 - (2005-2013) The Office
 - (2004-2012) House M.D.
 - (2004-2010) Lost
+- (2003-2015) Two and a Half Men
+- (2003-2010) Nip/Tuck
 - (2002-2008) The Wire
+- (2001-2010) 24
 - (2001-2001) Band of Brothers
+- (2000-2006) Malcolm in the Middle
+- (1998-2006) Charmed
+- (1998-2003) Dawson's Creek
 - (1997-2007) The Sopranos
+- (1997-2003) Buffy the Vampire Slayer
+- (1996-2003) Sabrina the Teenage Witch
+- (1995-2001) Xena: Warrior Princess
 - (1994-2004) Friends
 - (1993-2018) The X Files
+- (1993-1996) Mighty Morphin Power Rangers
+- (1992-1999) Melrose Place
 - (1990-1995) Mr. Bean
+- (1989-1996) Tales from the Crypt
+- (1987-1997) Married with Children
+- (1986-1990) ALF
+- (1985-1992) MacGyver
+- (1983-1987) The A-Team
 - (1972-1983) El Chavo del Ocho
